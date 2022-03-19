@@ -1,5 +1,5 @@
 # Test-Api-Trello
-Testowanie podstawowych funkcjonalności aplikacji Trello
+Testowanie podstawowych funkcjonalności aplikacji Trello, autoryzacja
 1. Utworzenie nowej listy
 2. Utworzenie nowej karty
 3. Pobranie nowej karty i sprawdzenie, czy została prawidłowo utworzona
