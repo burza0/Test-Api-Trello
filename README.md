@@ -7,4 +7,3 @@ Testowanie podstawowych funkcjonalności aplikacji Trello
 5. Pobranie karty i sprawdzenie, czy została zaktualizowana
 6. Usunięcie karty
 7. Pobranie karty i sprawdzenie czy na pewno została  usunieta
-
